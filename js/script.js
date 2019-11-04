@@ -4,6 +4,11 @@
 
 //GLOBAL VARIABLES
 /* global $ */
+$(".button").click(function(){
+
+
+
+});
 
 
 
